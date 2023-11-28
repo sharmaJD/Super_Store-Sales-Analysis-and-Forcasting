@@ -19,3 +19,6 @@ One of the key features of this project is the utilization of the Power BI Forec
 - March, October, and December stand out as our most profitable months, emphasizing the importance of strategic planning during these periods.
 
 # Dashboard
+<img width="657" alt="p1" src="https://github.com/sharmaJD/Super_Store-Sales-Analysis-and-Forcasting/assets/112079465/3b87aed9-60ff-4b30-80fa-bf2fbd201f27">
+
+<img width="655" alt="p2" src="https://github.com/sharmaJD/Super_Store-Sales-Analysis-and-Forcasting/assets/112079465/a6fc084a-abbb-4513-8cab-b9d2cef3a3da">
